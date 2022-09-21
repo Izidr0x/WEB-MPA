@@ -1,0 +1,34 @@
+#header {
+    background: #ff8000;
+    color: #252850;
+}
+
+#branding h1{
+  color: #252850;
+}
+
+div.breadcrumb{
+  background:#C35831;
+  padding: 10px 40px;
+  border: none;
+  font-size: 14px;
+  color:#252850;
+  text-align: left;
+}
+
+.login .submit-row{
+}
+
+.button,
+input[type="submit"],
+input[type="button"],
+.submit-row input,
+a.button{
+  width:100%;
+  background: #C35831; 
+}
+
+
+.module h2, .module caption, .inline-group h2{
+  background: #ff8000;
+}
